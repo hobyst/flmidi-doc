@@ -9,14 +9,14 @@ your workspace. The software will index all the functions and methods and enable
 
 At the moment, this documentation is not finished yet:
 
-    * fl (script events) module: done
-    * playlist module: pending
-    * channels module: pending
-    * mixer module: pending
-    * patterns module: pending
-    * arrangement module: pending
-    * ui module: pending
-    * transport module: pending
-    * device module: pending
-    * general module: pending
-    * LaunchMapPages module: pending
+* fl (script events) module: done
+* playlist module: pending
+* channels module: pending
+* mixer module: pending
+* patterns module: pending
+* arrangement module: pending
+* ui module: pending
+* transport module: pending
+* device module: pending
+* general module: pending
+* LaunchMapPages module: pending
