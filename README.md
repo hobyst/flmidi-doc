@@ -16,6 +16,6 @@ At the moment, this documentation is not finished yet:
 * arrangement module: pending
 * ui module: pending
 * transport module: pending
-* device module: pending
+* device module: done ✅
 * general module: pending
 * launchMapPages module: pending
