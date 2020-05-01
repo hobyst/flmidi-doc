@@ -7,13 +7,15 @@ documentation for the [FL Studio MIDI API](https://www.image-line.com/support/fl
 If you're using a code editor with Python support like Visual Studio Code or PyCharm, add these scripts to 
 your workspace. The software will index all the functions and methods and enable code completion. Start writting the name of a function or method and it will display all the possible matches as well as their descriptions as written in the API documentation.
 
+Note: On Visual Studio Code, you might need to reload the window 
+
 At the moment, this documentation is not finished yet:
 
 * playlist module: pending
 * channels module: pending
 * mixer module: pending
 * patterns module: pending
-* arrangement module: pending
+* arrangement module: done ✅
 * ui module: pending
 * transport module: pending
 * device module: done ✅
